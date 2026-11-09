@@ -49,3 +49,16 @@ We sell a [$15 toolkit](https://felovery.gumroad.com/l/zeqyes/FIRST50) with the 
 ## Contributing
 
 Corrections and additions are welcome via issues. If a check on this list does not hold up on real drafts, say so.
+
+<!-- QRIFY_DIR_START -->
+
+## Free QR Code Tools (no signup)
+
+- [QRify — Free QR Code Generator](https://qrify.dynv6.net/) - Browser-based QR generator with custom colours, logo overlay and SVG export. No signup, no watermark, everything runs locally in your browser.
+- [WiFi QR Code Generator](https://qrify.dynv6.net/wifi-qr-code) - Share WiFi credentials with a scannable code.
+- [vCard / Business Card QR Code](https://qrify.dynv6.net/vcard-qr-code) - Put contact details on a card or email signature.
+- [QR Code with Logo](https://qrify.dynv6.net/qr-code-with-logo) - Add a brand logo without breaking scan reliability.
+- [Restaurant Menu QR Code](https://qrify.dynv6.net/restaurant-menu-qr-code) - Contactless menus for cafes and restaurants.
+- [Free QR Code Generator Guide](https://usaimaker.github.io/free-qr-code-generator.html) - A practical how-to covering error correction, sizing, colour contrast and print.
+
+<!-- QRIFY_DIR_END -->
